@@ -12,7 +12,7 @@ Instruction for Linux/Termux:
 4. cd Port-scanner
 5. pip install -r requirements.txt
 6. python main.py
-specify the password when purchasing
+7. specify the password when purchasing
 
 Instruction for Windows:
 1. Install python
@@ -20,4 +20,4 @@ Instruction for Windows:
 3. unpack zip
 4. pip install -r YOUR_PATH/requirements.txt
 5. Start main.py
-specify the password when purchasing
+6. specify the password when purchasing
